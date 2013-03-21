@@ -27,7 +27,6 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="easyTestSampleProject" />
-        <module name="easyttt" />
       </profile>
     </annotationProcessing>
   </component>
