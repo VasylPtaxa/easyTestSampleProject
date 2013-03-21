@@ -10,8 +10,8 @@
     <dependencies>
     <dependency>
         <groupId>org.easetech</groupId>
-        <artifactId>easytest</artifactId>
-        <version>0.6.3</version>
+        <artifactId>easytest-core</artifactId>
+        <version>0.8.1</version>
     </dependency>
     </dependencies>
 
